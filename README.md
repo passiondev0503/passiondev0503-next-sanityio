@@ -1,6 +1,5 @@
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fkenaqshal%2Fkenaqshal-next)
 
-# kenaqshal.com
+# Next + Sanity
 
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Database**: [PlanetScale](https://planetscale.com)
@@ -28,17 +27,17 @@
 This application requires Node.js v16.13+.
 
 ```bash
-$ git clone https://github.com/kenaqshal/kenaqshal-next.git
-$ cd kenaqshal-next
+$ git clone https://github.com/passiondev0503/passiondev0503-next-sanityio.git
+$ cd passiondev0503-next-sanityio
 $ yarn
 $ yarn dev
 ```
 
-Create a `.env` file similar to [`.env.example`](https://github.com/kenaqshal/kenaqshal-next/blob/main/.env.example).
+Create a `.env` file similar to [`.env.example`](https://github.com/passiondev0503/passiondev0503-next-sanityio/blob/main/.env.example).
 
 ## Cloning / Forking
 
-Please review the [license](https://github.com/kenaqshal/kenaqshal-next/blob/main/LICENSE.txt) and remove all of my personal information (resume, blog posts, images, etc.).
+Please review the [license](https://github.com/passiondev0503/passiondev0503-next-sanityio/blob/main/LICENSE.txt) and remove all of my personal information (resume, blog posts, images, etc.).
 
 
 ## Credit
