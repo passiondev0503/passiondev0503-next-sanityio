@@ -35,10 +35,4 @@ $ yarn dev
 
 Create a `.env` file similar to [`.env.example`](https://github.com/passiondev0503/passiondev0503-next-sanityio/blob/main/.env.example).
 
-## Cloning / Forking
-
-Please review the [license](https://github.com/passiondev0503/passiondev0503-next-sanityio/blob/main/LICENSE.txt) and remove all of my personal information (resume, blog posts, images, etc.).
-
-
-## Credit
 _Project partially based on [Lee Rob's website](https://github.com/leerob/leerob.io/)_
