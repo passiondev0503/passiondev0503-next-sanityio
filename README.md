@@ -35,4 +35,3 @@ $ yarn dev
 
 Create a `.env` file similar to [`.env.example`](https://github.com/passiondev0503/passiondev0503-next-sanityio/blob/main/.env.example).
 
-_Project partially based on [Lee Rob's website](https://github.com/leerob/leerob.io/)_
